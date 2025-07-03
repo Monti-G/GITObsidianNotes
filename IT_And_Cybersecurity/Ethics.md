@@ -5,6 +5,13 @@ Tags:
 **Notes on these notes:**
 
 **2025/07/02**: These are primarily copy and pasted bits of the textbook I'm reading through for my "Ethics in Technology" course for my degree that I thought were of note, both for the assignments and personal reference.
+
+###### Source(s): 
+
+[^1]: 2023 Computing and Technology Ethics: Engaging Through Science Fiction by Emanuelle Burton, Judy Goldsmith, Nicholas Mattei, Cory Siler, Sara-Jo Swiatek
+
+[^2]: Ethics in Information Technology 6th Edition by George W. Reynolds
+
 # Summary:
 
 The practical work of *ethics* is not about applying the rules of morality to social, corporate, or institutionalized subject matter in order to yield specific results.  Nor is ethical thinking solely or even primarily about applying self-interpreting rules and laws to concrete situations in life.  Even within *deontology*—an ethical framework that is known to emphasize laws and rules—things are never this easy. Human life is much more complex, and the task of ethics is for each of us to live the best life that we can.  That task is complicated and challenging enough that most people decide, after some reflection, that they will take all the help they can get.
@@ -93,6 +100,18 @@ Nobody is born virtuous. In fact, it’s not really possible to be virtuous unti
 
 Virtues are the basic building blocks of human character; they are fundamental qualities like kindness, playfulness, or self-respect. Virtues are not qualities that only some people possess; rather, a virtue is the capacity to exercise that quality. According to virtue ethics, every person is endowed with the same basic library of virtues, and the potential to excel in any of these virtues is part of our basic makeup. Therefore, what differentiates us from one another is not whether or not we possess a given virtue, but rather the degree to which we have developed (or our parents and teachers have developed in us) the ability to exercise that virtue. Within a virtue ethics framework, a chronic liar would be understood as being very deficient in honesty rather than lacking honesty entirely. Given the right conditions and a genuine desire on that person’s part to become more honest, they could over time develop a greater capacity for honesty. 
 
+### Communitarianism
+
+Communitarianism is an approach to ethics organized around self-realization in the context of interdependence. Its basic assumption is that human beings exist in a state of mutual reliance on one another (Masolo 2010; Smith-Morris 2020). Although this interdependence includes material goods like shelter and safety, the more significant dimension of our interdependence concerns the many social, spiritual, and psychological goods that can only come from relationships with others. Because we are interdependent, everybody benefits from investing in the common good, or the well-being of the community as a whole (Masolo 2010; Wiredu 1992a).
+
+Instead of conceiving of communities as collections of individuals who have decided to make common cause, communitarianism posits that communities exist prior to any individual born and raised within them (Menkiti 1984). By furnishing the language, values and relationships that form the basis of an individual’s experience, a community is necessarily foundational to understanding the character, goals, and potential of any individual within it. Furthermore, because of our interdependence, that individual’s self-realization—that is, the fulfillment of the individual’s potential and aims for themself—can take place only in a community setting, because relationships with others are essential to the structure and development of the self and because they create the context that makes an individual’s aims significant (Gyekye 1997, Masolo 2010).
+
+### Utilitarianism
+
+Utilitarianism is an approach to ethics organized around the idea of happiness. Like virtue ethics, utilitarianism is an outcome-based approach to ethics that assumes that human beings are motivated by the desire to be happy. Building on the basic assumption that humans are motivated by happiness, utilitarians argue that when it comes to determining how we should act, we should first and foremost consider what kinds of actions bring about the most happiness for the greatest number of people. This is known as the principle of utility or the greatest happiness principle. 
+
+Utilitarianism is a form of consequentialism, which is a category of ethical theories that focuses primarily or solely on consequences in determining the moral worth of an action. (Virtue ethics is also technically consequentialist because it is focused on outcomes, though its focus on character means it is not often categorized that way.) However, the choice to focus on consequences still leaves open a major question: whose consequences should be considered? Should we strive to create positive outcomes for everyone, or just for a chosen few? Different forms of consequentialism answer this question differently. According to ethical egoism, each person should prioritize their own well-being over others’. According to ethical altruism, each person should improve others’ well-being without regard to their own. In contrast to both of these, utilitarianism requires that everyone’s well-being counts equally; as such, the individual ought to reason about their own happiness in the same way that they ought to reason about the well-being of others.
+
 ### Normative vs Descriptive:
 
 Ethical statements typically come in two varieties: *normative* and *descriptive*.  In a normative statement one provides an assessment of how things should be rather than how they are: for example, “he was wrong to do that” or “being kind is more important than being the most successful.”  Normative statements are rooted in value judgments about what is good and what is bad, or what is permissible and what is forbidden, or they are assessments of the relative value of different things.  Ethics is often (mis)understood to be only normative: that is, to be aimed at establishing norms of thought, values, or conduct.
@@ -101,6 +120,4 @@ While description is an essential part of ethics, it is vital to recognize that 
 
 The difference between descriptive and normative may seem clear in theory, but in practice, the distinction gets fuzzier the closer you look. Which facts are the most important in a given situation? How do we describe them? How do we fill in the gaps between the facts we have? These are all questions about how to describe a given situation, but any one of them could affect the ethical judgment you or others make in the end.  Every person has their own ideas about what is ethical and what is not, including you. Those ideas are shaped by the culture around us, but they are also specific to each of us.
 
-###### Source(s): 
-
-[^1]: 2023 Computing and Technology Ethics: Engaging Through Science Fiction by Emanuelle Burton, Judy Goldsmith, Nicholas Mattei, Cory Siler, Sara-Jo Swiatek
+[^2]: Ethics in
