@@ -4,7 +4,7 @@ Tags: #LegalitiesAndMorality
 
 **Notes on these notes:**
 
-**2025/07/02**: These are primarily copy and pasted bits of the textbook I'm reading through for my "Ethics in Technology" course for my degree that I thought were of note, both for the assignments and personal reference.
+These are primarily copy and pasted bits of the textbook I'm reading through for my "Ethics in Technology" course for my degree that I thought were of note, both for the assignments and personal reference.  As about 99% of this note (of which is the first in this vault as I'm kind of late to starting this project being in the final year of my degree whoopsie) please see the cited textbooks in the Source(s) section to give credit where it's due.
 
 ###### Source(s): 
 
@@ -15,6 +15,28 @@ Tags: #LegalitiesAndMorality
 # Summary:
 
 The practical work of *ethics* is not about applying the rules of morality to social, corporate, or institutionalized subject matter in order to yield specific results.  Nor is ethical thinking solely or even primarily about applying self-interpreting rules and laws to concrete situations in life.  Even within *deontology*—an ethical framework that is known to emphasize laws and rules—things are never this easy. Human life is much more complex, and the task of ethics is for each of us to live the best life that we can.  That task is complicated and challenging enough that most people decide, after some reflection, that they will take all the help they can get.
+
+## Keynotes and Terms
+
+- **Ethics** / noun - A code of behavior that is defined by the group to which an individual belongs.
+
+- **Morals** / noun - The personal principles upon which an individual bases his or her decisions about what is right and wrong.
+
+* **Virtue** / noun - A habit that inclines people to do what is acceptable.
+
+* **Vice** / noun - A habit of unacceptable behavior.
+
+* **Integrity** / noun - Adherence to a personal code of principles.
+
+* **Law** / noun - A system of rules that tells us what we can and cannot do.
+
+* 
+
+* **Bathsheba syndrome** / noun - The moral corruption of people in power, which is often facilitated by a tendency for people to look the other way when their leaders act inappropriately.
+
+* **Corporate Social Responsibility (CSR)** / noun - The concept that an organization should act ethically by taking responsibility for the impact of its actions on its shareholders, consumers, employees, community, environment, and suppliers.
+
+* **Corporate Ethics Officer** / noun - A senior-level manager who provides an organization with vision and leadership in the area of business conduct.
 
 ## Frameworks:
 
