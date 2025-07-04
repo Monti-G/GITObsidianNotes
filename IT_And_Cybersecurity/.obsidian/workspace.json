@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "c45f33189e4e399d",
+        "id": "1607706a3c716de4",
         "type": "tabs",
         "children": [
           {
-            "id": "43444fac0b17b96e",
+            "id": "0f0ec6440cf36b23",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -181,10 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0543886a165143c5",
+  "active": "caa6e596aba84150",
   "lastOpenFiles": [
-    "Templates/Template.md",
     "Ethics.md",
+    "Templates/Template.md",
     "Untitled.md",
     "Templates",
     "Untitled.canvas",

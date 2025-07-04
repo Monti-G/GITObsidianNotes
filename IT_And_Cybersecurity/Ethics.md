@@ -1,3 +1,4 @@
+
 Featured Related:
 
 Tags: #LegalitiesAndMorality
@@ -16,7 +17,13 @@ These are primarily copy and pasted bits of the textbook I'm reading through for
 
 The practical work of *ethics* is not about applying the rules of morality to social, corporate, or institutionalized subject matter in order to yield specific results.  Nor is ethical thinking solely or even primarily about applying self-interpreting rules and laws to concrete situations in life.  Even within *deontology*—an ethical framework that is known to emphasize laws and rules—things are never this easy. Human life is much more complex, and the task of ethics is for each of us to live the best life that we can.  That task is complicated and challenging enough that most people decide, after some reflection, that they will take all the help they can get.
 
-## Keynotes and Terms
+# The Why
+
+Research by the Ethics Resource Center (ERC) found that 86 percent of the employees in companies with a well-implemented ethics and compliance program are likely to perceive a strong ethical culture within the company, while less than 25 percent of employees in companies with little to no program are likely to perceive a culture that promotes integrity in the workplace. A well-implemented ethics and compliance program and a strong ethical culture can, in turn, lead to less pressure on employees to misbehave and a decrease in observed misconduct. It also creates an environment in which employees are more comfortable reporting instances of misconduct, partly because there is less fear of potential retaliation by management against reporters (for example, reduced hours, transfer to less desirable jobs, and delays in promotions).
+
+Regardless of industry or field ethics is important as it helps us address the questions of right and wrong we may run into during our careers and the conflicts such questions can pose with smooth business operations.  Framing your decisions with ethical frameworks can help people you're explaining them to understand your point of view on the matter.
+
+# Keynotes and Terms
 
 - **Ethics** / noun - A code of behavior that is defined by the group to which an individual belongs.
 
@@ -30,15 +37,13 @@ The practical work of *ethics* is not about applying the rules of morality to so
 
 * **Law** / noun - A system of rules that tells us what we can and cannot do.
 
-* 
-
 * **Bathsheba syndrome** / noun - The moral corruption of people in power, which is often facilitated by a tendency for people to look the other way when their leaders act inappropriately.
 
 * **Corporate Social Responsibility (CSR)** / noun - The concept that an organization should act ethically by taking responsibility for the impact of its actions on its shareholders, consumers, employees, community, environment, and suppliers.
 
 * **Corporate Ethics Officer** / noun - A senior-level manager who provides an organization with vision and leadership in the area of business conduct.
 
-## Frameworks:
+# Frameworks:
 
 ### Deontology:
 
@@ -166,12 +171,10 @@ Like utilitarianism, CA is consequentialist and pragmatic, and it relies on fact
 
 Capabilities are the resources that individuals have. Those resources include material goods such as money or property, shelter, and food, but they also include intangibles like health and access to education, transportation, and other intangible resources. Although Sen did not think there is or should be a list of core capabilities, Nussbaum’s adaptation of CA has proposed a list of what she calls basic capabilities, which emphasizes human dignity (Nussbaum 1997; Sen 2005). The 10 basic capabilities are being able to live a normal lifespan; having good health; maintaining bodily integrity; being able to use the senses, imagination, and thought; having emotions and emotional attachments; possessing practical reason to form a conception of the good; having social affiliations that are meaningful and respectful; expressing concern for other species; being able to play; and having control over one’s material and political environment (see Nussbaum 2000, 33, paraphrased from Jacobs 2020). Furthermore, Nussbaum explicitly stresses the importance of both the internal and external conditions, distinguishing between internal capabilities and combined capabilities.
 
-### Normative vs Descriptive:
+# Normative vs Descriptive:
 
 Ethical statements typically come in two varieties: *normative* and *descriptive*.  In a normative statement one provides an assessment of how things should be rather than how they are: for example, “he was wrong to do that” or “being kind is more important than being the most successful.”  Normative statements are rooted in value judgments about what is good and what is bad, or what is permissible and what is forbidden, or they are assessments of the relative value of different things.  Ethics is often (mis)understood to be only normative: that is, to be aimed at establishing norms of thought, values, or conduct.
 
 While description is an essential part of ethics, it is vital to recognize that making a judgment always necessarily involves norms.  Although it is the normative element that often makes ethical judgments recognizable, the process that is used to arrive at ethical judgments is often described in a way that erases the norms themselves.  When this erasure has happened, ethics appear to be simply a matter of knowing the relevant facts, and it can seem as if normative assessments follow automatically from an accounting of those facts.  But a person who reasons in this way is not being objective, even though they may feel like they are.  They are simply overlooking the foundations of their own observations and logic.
 
 The difference between descriptive and normative may seem clear in theory, but in practice, the distinction gets fuzzier the closer you look. Which facts are the most important in a given situation? How do we describe them? How do we fill in the gaps between the facts we have? These are all questions about how to describe a given situation, but any one of them could affect the ethical judgment you or others make in the end.  Every person has their own ideas about what is ethical and what is not, including you. Those ideas are shaped by the culture around us, but they are also specific to each of us.
-
-[^2]: Ethics in
