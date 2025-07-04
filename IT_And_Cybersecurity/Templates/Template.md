@@ -1,3 +1,4 @@
+{{date}} {{time}}
 
 Featured Related:
 

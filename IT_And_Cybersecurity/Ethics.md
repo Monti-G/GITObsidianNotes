@@ -37,6 +37,10 @@ Regardless of industry or field ethics is important as it helps us address the q
 
 * **Law** / noun - A system of rules that tells us what we can and cannot do.
 
+* **Code of Ethics** / noun - A statement that highlights an organization’s key ethical issues and identifies the overarching values and principles that are important to the organization and its decision making.
+
+* **Social Audit** / noun - A process whereby an organization reviews how well it is meeting its ethical and social responsibility goals and communicates its new goals for the upcoming year.
+
 * **Bathsheba syndrome** / noun - The moral corruption of people in power, which is often facilitated by a tendency for people to look the other way when their leaders act inappropriately.
 
 * **Corporate Social Responsibility (CSR)** / noun - The concept that an organization should act ethically by taking responsibility for the impact of its actions on its shareholders, consumers, employees, community, environment, and suppliers.
