@@ -1,5 +1,6 @@
+Course: Ethics in Technology
 
-Featured Related:
+Related:
 
 Tags: #LegalitiesAndMorality
 

@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethics.md",
+                "file": "Templates/{{title}}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ethics"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1607706a3c716de4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0f0ec6440cf36b23",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "{{title}}"
             }
           }
         ]
@@ -94,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3f87c0a72fc40840",
@@ -183,9 +167,9 @@
   },
   "active": "caa6e596aba84150",
   "lastOpenFiles": [
-    "Templates/Template.md",
-    "Ethics.md",
     "Untitled.md",
+    "Templates/{{title}}.md",
+    "Ethics.md",
     "Templates",
     "Untitled.canvas",
     "Ethics in Tech/Untitled.md",
