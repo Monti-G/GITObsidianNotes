@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "caa6e596aba84150",
+            "id": "3f5566d3c30f65d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/{{title}}.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "{{title}}"
+              "title": "New tab"
             }
           }
         ]
@@ -165,10 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caa6e596aba84150",
+  "active": "3f5566d3c30f65d7",
   "lastOpenFiles": [
-    "Untitled.md",
     "Templates/{{title}}.md",
+    "Untitled.md",
     "Ethics.md",
     "Templates",
     "Untitled.canvas",
