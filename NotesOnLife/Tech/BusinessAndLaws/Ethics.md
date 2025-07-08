@@ -1,8 +1,8 @@
-Course: Ethics in Technology
+Course: #D333EthicsInTechnology
 
 Related:
 
-Tags: #LegalitiesAndMorality
+Tags:
 
 **Notes on these notes:**
 
